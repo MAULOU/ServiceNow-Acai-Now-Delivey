@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e828c10283fbc210529ef696feaad319" label="Outros" max_length="40" name="x_1437314_a_a_no_0_outros" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Outros" max_length="40" name="outros" type="string"/>
+    </element>
+</database>

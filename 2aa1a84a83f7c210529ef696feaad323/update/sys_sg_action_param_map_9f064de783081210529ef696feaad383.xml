@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Meu pedido)">df064de783081210529ef696feaad371</button>
+        <item_parameter display_value="Meu pedido assignment_group">9b064de783081210529ef696feaad36f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-22 02:43:37</sys_created_on>
+        <sys_id>9f064de783081210529ef696feaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9b064de783081210529ef696feaad36f</sys_name>
+        <sys_package display_value="Açaí Now Delivery" source="x_1437314_a_a_no_0">2aa1a84a83f7c210529ef696feaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Açaí Now Delivery">2aa1a84a83f7c210529ef696feaad323</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9f064de783081210529ef696feaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-22 02:43:37</sys_updated_on>
+        <ui_parameter display_value="Assignment group">93064de783081210529ef696feaad381</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

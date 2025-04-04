@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="11d749ce83bbc210529ef696feaad365" label="Granola e cereais" max_length="40" name="x_1437314_a_a_no_0_granola_e_cereais" type="collection">
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Granolas e cereais" max_length="40" name="granolas_e_cereais" type="string"/>
+    </element>
+</database>

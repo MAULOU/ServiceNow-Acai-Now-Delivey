@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="25f625d283730210529ef696feaad397" label="Grupos do sistema Açaí" max_length="40" name="x_1437314_a_a_no_0_grupos_do_sistema_a_a" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

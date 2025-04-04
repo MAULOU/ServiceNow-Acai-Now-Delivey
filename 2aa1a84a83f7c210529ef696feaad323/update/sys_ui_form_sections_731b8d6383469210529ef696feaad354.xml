@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="731b8d6383469210529ef696feaad354" sys_domain="global" table="x_1437314_a_a_no_0_u_toppings" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-29 13:11:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b1b8d6383469210529ef696feaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1437314_a_a_no_0_u_toppings" name="x_1437314_a_a_no_0_u_toppings" sys_domain="global" view="Default view">731b8d6383469210529ef696feaad354</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1437314_a_a_no_0_u_toppings" sys_domain="global" view="Default view">62c97c4a837bc210529ef696feaad372</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-29 13:11:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-29 13:11:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f71b8d6383469210529ef696feaad358</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1437314_a_a_no_0_u_toppings" name="x_1437314_a_a_no_0_u_toppings" sys_domain="global" view="Default view">731b8d6383469210529ef696feaad354</sys_ui_form>
+            <sys_ui_section caption="Nova Seção" display_value="Nova Seção" name="x_1437314_a_a_no_0_u_toppings" sys_domain="global" view="Default view">771b8d6383469210529ef696feaad352</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-29 13:11:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1437314_a_a_no_0_u_toppings</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-29 13:11:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>731b8d6383469210529ef696feaad354</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1437314_a_a_no_0_u_toppings</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Açaí Now Delivery" source="x_1437314_a_a_no_0">2aa1a84a83f7c210529ef696feaad323</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Açaí Now Delivery">2aa1a84a83f7c210529ef696feaad323</sys_scope>
+            <sys_update_name>sys_ui_form_sections_731b8d6383469210529ef696feaad354</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-29 13:11:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

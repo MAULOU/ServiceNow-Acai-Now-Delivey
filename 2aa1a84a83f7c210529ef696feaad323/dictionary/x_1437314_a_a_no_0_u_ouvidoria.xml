@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c932e48a83f7c210529ef696feaad3be" extends="task" label="Ouvidoria" max_length="40" name="x_1437314_a_a_no_0_u_ouvidoria" type="collection">
+        <element active="false" label="Grupo" max_length="32" name="grupo" reference="x_1437314_a_a_no_0_grupos_do_sistema_a_a" type="reference"/>
+        <element label="Tipo do problema" mandatory="true" max_length="35" name="tipo_do_problema" type="string"/>
+    </element>
+</database>

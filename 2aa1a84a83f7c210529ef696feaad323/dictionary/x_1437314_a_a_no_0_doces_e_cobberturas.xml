@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="64088dce83bbc210529ef696feaad3c9" label="Doces e cobberturas" max_length="40" name="x_1437314_a_a_no_0_doces_e_cobberturas" type="collection">
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Doces e coberturas" max_length="40" name="doces_e_coberturas" type="string"/>
+    </element>
+</database>

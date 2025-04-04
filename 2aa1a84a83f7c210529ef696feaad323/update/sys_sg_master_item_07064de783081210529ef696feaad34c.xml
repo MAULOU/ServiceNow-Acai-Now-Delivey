@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1437314_a_a_no_0_u_pedido</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Meu pedido Form Screen">8b064de783081210529ef696feaad349</embedded_screen>
+        <item_view/>
+        <name>Meu pedido Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-22 02:43:37</sys_created_on>
+        <sys_id>07064de783081210529ef696feaad34c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meu pedido Form Screen Master Item</sys_name>
+        <sys_package display_value="Açaí Now Delivery" source="x_1437314_a_a_no_0">2aa1a84a83f7c210529ef696feaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Açaí Now Delivery">2aa1a84a83f7c210529ef696feaad323</sys_scope>
+        <sys_update_name>sys_sg_master_item_07064de783081210529ef696feaad34c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-22 02:43:37</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Meu pedido List Screen View Config">3a060de783081210529ef696feaad379</view_config>
+    </sys_sg_master_item>
+</record_update>

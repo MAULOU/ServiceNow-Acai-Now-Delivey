@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>Meu pedido Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Meu pedido">83064de783081210529ef696feaad349</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-22 02:43:37</sys_created_on>
+        <sys_id>03064de783081210529ef696feaad34b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meu pedido Item Stream Segment</sys_name>
+        <sys_package display_value="Açaí Now Delivery" source="x_1437314_a_a_no_0">2aa1a84a83f7c210529ef696feaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Açaí Now Delivery">2aa1a84a83f7c210529ef696feaad323</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_03064de783081210529ef696feaad34b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-22 02:43:37</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

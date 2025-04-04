@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="outros" label="Outros" language="pb" table="x_1437314_a_a_no_0_outros">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>outros</element>
+            <help/>
+            <hint/>
+            <label>Outros</label>
+            <language>pb</language>
+            <name>x_1437314_a_a_no_0_outros</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-05 00:49:33</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Outros</sys_name>
+            <sys_package display_value="Açaí Now Delivery" source="x_1437314_a_a_no_0">2aa1a84a83f7c210529ef696feaad323</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Açaí Now Delivery">2aa1a84a83f7c210529ef696feaad323</sys_scope>
+            <sys_update_name>sys_documentation_x_1437314_a_a_no_0_outros_outros_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-05 00:49:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

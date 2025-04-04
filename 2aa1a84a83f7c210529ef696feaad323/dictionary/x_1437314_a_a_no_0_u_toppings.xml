@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fdc9380e837bc210529ef696feaad315" label="Toppings" max_length="40" name="x_1437314_a_a_no_0_u_toppings" type="collection">
+        <element label="Outros" max_length="32" name="outros" reference="x_1437314_a_a_no_0_outros" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Categoria" mandatory="true" max_length="40" name="categoria" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Doces e coberturas" sequence="2" value="Doces e coberturass"/>
+                <element inactive_on_update="false" label="Granolas e cereais" language="pb" sequence="1" value="Granolas e cereais"/>
+                <element inactive_on_update="false" label="Frutas" sequence="0" value="Frutass"/>
+                <element inactive_on_update="false" label="Outros" sequence="3" value="Outross"/>
+                <element inactive_on_update="false" label="Doces e coberturas" language="pb" sequence="2" value="Doces e coberturas"/>
+                <element inactive_on_update="false" label="Outros" language="pb" sequence="3" value="Outros"/>
+                <element inactive_on_update="false" label="Frutas" language="pb" sequence="0" value="Frutas"/>
+                <element inactive_on_update="false" label="Granolas e cereais" sequence="1" value="Granolas e cereaiss"/>
+            </choice>
+        </element>
+        <element label="Fruta" max_length="32" name="fruta" reference="x_1437314_a_a_no_0_u_frutas" type="reference"/>
+        <element label="Doces e coberturas" max_length="32" name="doces_e_coberturas" reference="x_1437314_a_a_no_0_doces_e_cobberturas" type="reference"/>
+        <element label="Ativo" mandatory="true" max_length="255" name="ativo" type="boolean"/>
+        <element label="Nome do Toppings" mandatory="true" max_length="40" name="nome_do_toppings" type="string"/>
+        <element label="Granolas e cereais" max_length="32" name="granolas_e_cereais" reference="x_1437314_a_a_no_0_granola_e_cereais" reference_qual="granolas_e_cereaisISNOTEMPTY" reference_qual_condition="granolas_e_cereaisISNOTEMPTY" type="reference"/>
+        <index name="index">
+            <element name="doces_e_coberturas"/>
+        </index>
+        <index name="index2">
+            <element name="fruta"/>
+        </index>
+        <index name="index3">
+            <element name="granolas_e_cereais"/>
+        </index>
+        <index name="index4">
+            <element name="outros"/>
+        </index>
+    </element>
+</database>

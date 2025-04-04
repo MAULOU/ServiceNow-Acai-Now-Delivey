@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8af1f802837bc210529ef696feaad36b" extends="task" label="Pedido" max_length="40" name="x_1437314_a_a_no_0_u_pedido" type="collection">
+        <element label="Nome do Cliente" max_length="40" name="nome_do_cliente" type="string"/>
+        <element label="Produto" mandatory="true" max_length="32" name="produto" reference="x_1437314_a_a_no_0_u_produto" type="reference"/>
+        <element label="Telefone" max_length="255" name="telefone" type="phone_number_e164"/>
+        <element function_definition="glidefunction:add(state,active)" function_field="true" label="somatorio" max_length="19" name="rpt_somatorio" read_only="true" type="longint"/>
+        <element label="Data de entrega" max_length="255" name="data_de_entrega" type="glide_date"/>
+    </element>
+</database>
